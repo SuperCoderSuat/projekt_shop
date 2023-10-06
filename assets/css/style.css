@@ -113,3 +113,7 @@ article h2, article p {
     font-size: 0.625rem;
     padding-bottom: 5px;
 }
+
+.mb50 {
+    margin-bottom: 50px;
+}
